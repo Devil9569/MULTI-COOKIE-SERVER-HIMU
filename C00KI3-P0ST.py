@@ -125,4 +125,4 @@ def mafiya():
 
             if "id" in response:
                 print(f"\033[1;32m[Success] Comment posted at {current_time}")
-            else
+else:
